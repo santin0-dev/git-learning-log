@@ -1,4 +1,4 @@
-*# My Learning Log*
+image.png*# My Learning Log*
 
 
 
@@ -20,3 +20,5 @@
 
 *- Push my work to GitHub*
 
+## What I Learned Today
+*- Git tracks changes to files over time*
