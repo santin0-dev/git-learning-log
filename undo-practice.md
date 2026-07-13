@@ -20,7 +20,7 @@
 
 *- git reset --hard HEAD\~1: undo last commit and discard all changes (dangerous!)*
 
-*- Only use reset on commits that haven't been pushed*
+*- Only safely use reset on commits that haven't been pushed*
 
 
 
