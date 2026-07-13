@@ -22,6 +22,7 @@
 
 *- Only use reset on commits that haven't been pushed*
 
+*- WRONG: always rebase shared branches to keep history clean*
 
 
 
