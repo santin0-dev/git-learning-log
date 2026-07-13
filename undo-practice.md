@@ -52,3 +52,11 @@
 
 *- To recover: find the SHA in reflog, then git branch <name> <SHA>*
 
+
+
+
+## Cherry-pick
+
+- git cherry-pick <SHA>: apply a specific commit to the current branch
+- Creates a new commit with the same changes but a different SHA
+- Use for hotfixes: fix on feature branch, cherry-pick to main
